@@ -1,0 +1,23 @@
+{
+  "name": "list-files-pkg",
+  "version": "1.0.0",
+  "description": "A new way for listing files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jay-Ayres/list-files-pkg.git"
+  },
+  "keywords": [
+    "list",
+    "files"
+  ],
+  "author": "Jayce Ayres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jay-Ayres/list-files-pkg/issues"
+  },
+  "homepage": "https://github.com/Jay-Ayres/list-files-pkg#readme"
+}
